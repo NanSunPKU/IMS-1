@@ -1,0 +1,10 @@
+E:\FullStack-NS\SourceTree\IMS\IMS_winform\bin\Debug\IMS_winform.exe.config
+E:\FullStack-NS\SourceTree\IMS\IMS_winform\bin\Debug\IMS_winform.exe
+E:\FullStack-NS\SourceTree\IMS\IMS_winform\bin\Debug\IMS_winform.pdb
+E:\FullStack-NS\SourceTree\IMS\IMS_winform\obj\Debug\IMS_winform.csprojResolveAssemblyReference.cache
+E:\FullStack-NS\SourceTree\IMS\IMS_winform\obj\Debug\IMS_winform.Form1.resources
+E:\FullStack-NS\SourceTree\IMS\IMS_winform\obj\Debug\IMS_winform.Properties.Resources.resources
+E:\FullStack-NS\SourceTree\IMS\IMS_winform\obj\Debug\IMS_winform.csproj.GenerateResource.Cache
+E:\FullStack-NS\SourceTree\IMS\IMS_winform\obj\Debug\IMS_winform.csproj.CoreCompileInputs.cache
+E:\FullStack-NS\SourceTree\IMS\IMS_winform\obj\Debug\IMS_winform.exe
+E:\FullStack-NS\SourceTree\IMS\IMS_winform\obj\Debug\IMS_winform.pdb

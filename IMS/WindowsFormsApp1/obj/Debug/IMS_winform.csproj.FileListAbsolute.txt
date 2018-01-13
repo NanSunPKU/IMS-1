@@ -1,0 +1,11 @@
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\obj\Debug\IMS_winform.csprojResolveAssemblyReference.cache
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Type.resources
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TypeNew.resources
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\obj\Debug\IMS_winform.csproj.GenerateResource.Cache
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\obj\Debug\IMS_winform.csproj.CoreCompileInputs.cache
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
