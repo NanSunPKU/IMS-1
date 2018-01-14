@@ -11,17 +11,17 @@ using ContosoUniversity.Models;
 
 namespace ContosoUniversity.Controllers
 {
-    public class StudentController : Controller
+    public class StudentsController : Controller
     {
         private SchoolContext db = new SchoolContext();
 
-        // GET: Student
+        // GET: Students
         public ActionResult Index()
         {
             return View(db.Students.ToList());
         }
 
-        // GET: Student/Details/5
+        // GET: Students/Details/5
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -36,13 +36,13 @@ namespace ContosoUniversity.Controllers
             return View(student);
         }
 
-        // GET: Student/Create
+        // GET: Students/Create
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: Student/Create
+        // POST: Students/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -65,8 +65,7 @@ namespace ContosoUniversity.Controllers
             }
             return View(student);
         }
-
-        // GET: Student/Edit/5
+        // GET: Students/Edit/5
         public ActionResult Edit(int? id)
         {
             if (id == null)
@@ -81,21 +80,9 @@ namespace ContosoUniversity.Controllers
             return View(student);
         }
 
-        // POST: Student/Edit/5
+        // POST: Students/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
-        //[HttpPost]
-        //[ValidateAntiForgeryToken]
-        //public ActionResult Edit([Bind(Include = "ID,LastName,FirstMidName,EnrollmentDate")] Student student)
-        //{
-        //    if (ModelState.IsValid)
-        //    {
-        //        db.Entry(student).State = EntityState.Modified;
-        //        db.SaveChanges();
-        //        return RedirectToAction("Index");
-        //    }
-        //    return View(student);
-        //}
         [HttpPost, ActionName("Edit")]
         [ValidateAntiForgeryToken]
         public ActionResult EditPost(int? id)
@@ -122,7 +109,8 @@ namespace ContosoUniversity.Controllers
             }
             return View(studentToUpdate);
         }
-        // GET: Student/Delete/5
+
+        // GET: Students/Delete/5
         public ActionResult Delete(int? id, bool? saveChangesError = false)
         {
             if (id == null)
@@ -141,7 +129,7 @@ namespace ContosoUniversity.Controllers
             return View(student);
         }
 
-        // POST: Student/Delete/5
+        // POST: Students/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id)
@@ -162,10 +150,7 @@ namespace ContosoUniversity.Controllers
 
         protected override void Dispose(bool disposing)
         {
-            if (disposing)
-            {
-                db.Dispose();
-            }
+            db.Dispose();
             base.Dispose(disposing);
         }
     }

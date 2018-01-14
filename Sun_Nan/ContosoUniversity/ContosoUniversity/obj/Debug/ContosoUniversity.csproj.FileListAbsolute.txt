@@ -89,3 +89,4 @@ E:\FullStack-NS\SourceTree\Sun_Nan\ContosoUniversity\ContosoUniversity\bin\Micro
 E:\FullStack-NS\SourceTree\Sun_Nan\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
 E:\FullStack-NS\SourceTree\Sun_Nan\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 E:\FullStack-NS\SourceTree\Sun_Nan\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+E:\FullStack-NS\SourceTree\Sun_Nan\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
