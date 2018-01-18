@@ -12,6 +12,6 @@ namespace IMS.Models
         public bool TaxInclusive { get; set; }
         public int CurrencyId { get; set; }
 
-        public virtual Currency Currency { get; set; }
+        public Currency Currency { get; set; }
     }
 }

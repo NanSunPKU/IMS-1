@@ -200,6 +200,7 @@
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\Currency.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Inventory.cs" />
     <Compile Include="Models\ItemPrice.cs" />
     <Compile Include="Models\Location.cs" />
     <Compile Include="Models\ManageViewModels.cs" />

@@ -7,5 +7,12 @@ namespace IMS.Models
 {
     public class ItemPrice
     {
+        public int ItemId { get; set; }
+        public int PriceId { get; set; }
+        public double SalesPrice { get; set; }
+
+        public virtual ItemPrice Item { get; set; }
+        public virtual Price Price { get; set; }
+
     }
 }

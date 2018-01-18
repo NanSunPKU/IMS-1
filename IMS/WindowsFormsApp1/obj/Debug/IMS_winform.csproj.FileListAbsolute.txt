@@ -9,3 +9,7 @@ E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+E:\FullStack-NS\SourceTree\IMS\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
